@@ -4,7 +4,7 @@ This is a web application built using HTML, CSS, and PHP that allows users to in
 
 # About
 
-This project is a lab assignment for the course Web Technology (CS2015) taught by Dr Navanath Saharia at the Indian Institute of Information Technology (IIIT), Manipur. It is designed to demonstrate the practical application of web development technologies like HTML, CSS, and JavaScript.
+This project is a lab assignment for the course Web Technology (CS2015) taught by Dr Navanath Saharia at the Indian Institute of Information Technology (IIIT), Manipur. It is designed to demonstrate the practical application of web development technologies like HTML, CSS, and PHP.
 
 ## Features
 
